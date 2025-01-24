@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Humerak10
-- 👀 I’m interested in ful stack development ai and cybersecurity
+- 👀 I’m interested in Application Development and Web Development
 - 🌱 I’m currently learning competitive programming and computer science concepts
--  I’m looking to collaborate on projects related to full stack development and ai
-- contact moana00272@gmail.com
+-  I’m looking to collaborate on projects related to Application Development and Web Development
+- contact khanhumerashabin272@gmail.com
 
 <!---
 Humerak10/Humerak10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
